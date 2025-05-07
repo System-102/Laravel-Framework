@@ -1,0 +1,11 @@
+body {
+    background-color: #1a202c;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.profile-card {
+    background-color: #2d3748;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
